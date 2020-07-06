@@ -1,1 +1,4 @@
 
+http://localhost:8888/notebooks/pandas-challenge/pycityschools/pandas-homework-city-schools.ipynb
+
+link to jupyter pandas-homework
